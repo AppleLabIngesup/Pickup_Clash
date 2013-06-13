@@ -1,0 +1,32 @@
+PODS:
+  - ECSlidingViewController (0.10.0)
+  - FMDB (2.0):
+    - FMDB/standard
+  - FMDB/common (2.0)
+  - FMDB/standard (2.0):
+    - FMDB/common
+  - JSONKit (1.5pre)
+  - MBProgressHUD (0.6)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - ODRefreshControl (1.1.0)
+  - Reachability (3.1.0)
+
+DEPENDENCIES:
+  - ECSlidingViewController (~> 0.10.0)
+  - FMDB (~> 2.0)
+  - JSONKit (~> 1.5pre)
+  - MBProgressHUD (~> 0.6)
+  - MKNetworkKit (~> 0.87)
+  - ODRefreshControl (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  ECSlidingViewController: fc9a9a6564d4a64c0d8c7cf5583d2b9a469ecd04
+  FMDB: 30a7cbcdbd354f5ee1ba081a8773fd9130c43b48
+  JSONKit: 409734ab3407fce90ef7eaa95d7168f38d9a6601
+  MBProgressHUD: 9b55a90566fb5d07df0602f6fd9fa04510ad5d52
+  MKNetworkKit: 79a362de7fdcae82b714c45e0003c52b3b6e53c8
+  ODRefreshControl: 886e323a7c25114b9e5c397a9eefbebc034224a9
+  Reachability: ba94ecd4eaa037be3d0588b38956672588530c5b
+
+COCOAPODS: 0.19.1
